@@ -162,13 +162,23 @@ Available routes:
 # Design 
 
 Activation 
+
+```
 ![alt text](image.png)
+```
 
 Success Activation
+
+```
 ![alt text](image-1.png)
+```
 
 Cek Status
+```
 ![alt text](image-2.png)
+```
 
 Subscription Status
+```
 ![alt text](image-3.png)#
+```
