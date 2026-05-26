@@ -161,24 +161,24 @@ Available routes:
 
 # Design 
 
-Activation 
+## Activation 
 
-```
+
 ![alt text](image.png)
-```
 
-Success Activation
 
-```
+## Success Activation
+
+
 ![alt text](image-1.png)
-```
 
-Cek Status
-```
+
+## Cek Status
+
 ![alt text](image-2.png)
-```
 
-Subscription Status
+
+## Subscription Status
 ```
 ![alt text](image-3.png)#
 ```
